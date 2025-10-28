@@ -27,7 +27,7 @@
 2.  点击下面的链接进行安装：
     * **[Gist 安装链接](https://gist.github.com/HuxiaoRoar/84906305e947b6a60b43e76b62031369/raw/a7bf506690618cb450eff13ad8ae352663cbbb3c/TS3AudioBot-Pusher.user.js)** (推荐：可自动更新)
     * *或* **[GreasyFork 安装]([https://greasyfork.org/zh-CN/scripts/your-script-id](https://greasyfork.org/zh-CN/scripts/553983-b%E7%AB%99%E9%9F%B3%E9%A2%91%E4%B8%80%E9%94%AE%E6%8E%A8%E9%80%81-ts3audiobot))**
-    * *或* **[点击此处从本仓库安装](https://github.com/HuxiaoRoar/TS3AudioBot-Pusher/TS3AudioBot-Pusher.user.js)**
+    * *或* **[点击此处从本仓库安装](https://github.com/HuxiaoRoar/TS3AudioBot-Pusher/blob/main/TS3AudioBot-Pusher.user.js)**
 
 ## ⚙️ 配置
 
